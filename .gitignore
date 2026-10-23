@@ -1,0 +1,14 @@
+# Виртуальное окружение Python
+.venv/
+venv/
+
+# Временные файлы Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Системные файлы macOS
+.DS_Store
+
+# Настройки редактора
+.vscode/
